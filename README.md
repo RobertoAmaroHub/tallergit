@@ -1,4 +1,4 @@
-# Taller de Introducción a Gits
+# Taller de Introducción a Git
 
 **"Introducción a Git: Gestión de Versiones desde Cero"**
 
