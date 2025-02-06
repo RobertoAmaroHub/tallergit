@@ -232,6 +232,7 @@
         ```bash
         git branch nueva-rama  # Crea una nueva rama
         git checkout nueva-rama  # Cambia a la nueva rama
+        git checkout -b nueva-rama  # Cambia a la nueva rama y automticamente te cambia a esa nueva rama
         ```
         
         ✅ **Beneficio:** Permite que varios desarrolladores trabajen en paralelo sin conflictos.
