@@ -230,8 +230,8 @@
         🔹 **Ejemplo:**
         
         ```bash
-        git branch nueva-rama  # Crea una nueva rama
-        git checkout nueva-rama  # Cambia a la nueva rama
+        git branch nueva-rama  # Crea una nueva ramas
+        git checkout nueva-rama  # Cambia a la nueva ramas
         ```
         
         ✅ **Beneficio:** Permite que varios desarrolladores trabajen en paralelo sin conflictos.
